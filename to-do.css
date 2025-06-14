@@ -50,7 +50,7 @@ body{
     background-color:#48507a;
 }
 #progress{
-    width:80%;
+    width:0%;
     height: 10px;
      border-radius: 10px;
     background: linear-gradient(to right, #fe02e9, #4c03f6);
@@ -115,9 +115,9 @@ button{
     padding: 10px;
     background-color:#1F1B3A;
     border-radius: 10px;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     align-items: center;
-    gap:250px;
+
 
 
 }
